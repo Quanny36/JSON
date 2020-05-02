@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "instructor": "Barry A. Cumbie, Ph.D",
+      "salutation": "Dr.Cumbie or Professor Cumbie",
+      "phone": "(256) 765-4783",
+	  "email": "bcumbie@una.edu",
+	  "office": "Keller #249",
+	  "officeHours": "Tuesdays & Thursdays, 12:30pm-3:30pm"
+    }
+  ]
+}
